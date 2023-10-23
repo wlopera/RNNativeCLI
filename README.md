@@ -1,3 +1,18 @@
+# Aplicación React Native CLI sin Expo solo para analizar su uso
+
+#### ver doc/React Native CLI.docx
+* Para correr: > npx react-native run-android
+
+![image](https://github.com/wlopera/RNNativeCLI/assets/7141537/56c9c064-1647-4229-8891-012d541c8ca8)
+![image](https://github.com/wlopera/RNNativeCLI/assets/7141537/25f2745c-9f92-490f-aa25-98dd96709824)
+![image](https://github.com/wlopera/RNNativeCLI/assets/7141537/ebdd1cf6-3d78-40f0-b0e2-a387a34278c4)
+Nota: pude ser necesario agregar al path de winodws: 
+![image](https://github.com/wlopera/RNNativeCLI/assets/7141537/dac56528-5ce8-4b29-a60d-e29260e76c27)
+![image](https://github.com/wlopera/RNNativeCLI/assets/7141537/b252a843-2087-4b23-a815-65bff77c4e9e)
+
+
+### Anexo
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
